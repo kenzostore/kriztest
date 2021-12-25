@@ -1,7 +1,7 @@
 {
   "botname": "Zacros Bot",
   "ownerNumber": [
-    "YOUR NUMBER"
+    "62882007289925"
   ],
   "linkApi": {
    "zacros": "zacros.herokuapp.com",
@@ -18,7 +18,7 @@
     "+",
     ","
   ],
-  "ownername": "Zacros Team",
+  "ownername": "KenzStore",
   "unicode" : {
   "head": "⬣",
   "list": "⬡",
